@@ -1,5 +1,4 @@
 import { Routes, Route} from 'react-router-dom'
-import { DashFooter } from './components/DashFooter';
 import { DashLayout } from './components/DashLayout';
 import { Layout } from './components/Layout';
 import { Login } from './features/auth/Login';
